@@ -4,4 +4,4 @@ Actualmente tengo una bot de Discord verificada llamada [Piña Bot](https://disc
 
 Soy miembro activo de la comunidad [MyBOT Team](https://discord.gg/g6ssSmK) en donde apoyo a nuevos desarrolladores de bots en Discord. 🎈
 
-Empecé con Node.js y ahora estoy aprendiendo C++.
+Empecé con Node.js y ahora estoy aprendiendo Python y C++.

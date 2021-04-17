@@ -8,5 +8,3 @@ Soy miembro activo de la comunidad [MyBOT Team](https://discord.gg/g6ssSmK) en d
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-![Lenguajes más usados](https://raw.githubusercontent.com/MrRojito-Dev/github-stats-transparent/output/generated/languages.svg)

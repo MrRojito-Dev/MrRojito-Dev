@@ -1,7 +1,7 @@
 ## ¡Hola, soy Rojito! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![GitHub followers](https://img.shields.io/github/followers/MrRojito-Dev?label=Follow&style=social)](https://github.com/MrRojito-Dev)
 [![Twitter followers](https://img.shields.io/twitter/follow/MrRojito_?label=Follow&style=social)](https://twitter.com/MrRojito_)
-[![PortalMyBot](https://img.shields.io/badge/Follow-PortalMyBOT-blue)](https://mybo.me/rojito)
+[![PortalMyBot](https://img.shields.io/badge/Follow-PortalMyBOT-blue?style=social)](https://mybo.me/rojito)
 
 ### Soy un programador principiante que hace bots en Discord.
 Actualmente tengo una bot de Discord verificada llamada [Piña Bot](https://top.gg/bot/744386070552117278). [![Discord Bots](https://top.gg/api/widget/status/744386070552117278.svg)](https://top.gg/bot/744386070552117278)

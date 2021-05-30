@@ -3,7 +3,7 @@
 [![Twitter followers](https://img.shields.io/twitter/follow/MrRojito_?label=Follow&style=social)](https://twitter.com/MrRojito_)
 [![PortalMyBot](https://img.shields.io/badge/Follow-MyBOT%20Team-blue?style=social)](https://mybo.me/rojito)
 
-## Soy un programador principiante que hace bots en Discord.
+## Soy un programador que hace bots en Discord.
 Actualmente tengo una bot de Discord verificada llamada [Piña Bot](https://top.gg/bot/744386070552117278).
 <br>
 [![Discord Bots](https://top.gg/api/widget/744386070552117278.svg)](https://top.gg/bot/744386070552117278)

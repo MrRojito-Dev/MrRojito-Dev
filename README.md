@@ -5,8 +5,6 @@
 
 ## Soy un programador que hace bots en Discord.
 Actualmente tengo una bot de Discord verificada llamada [Piña Bot](https://top.gg/bot/744386070552117278).
-<br>
-[![Discord Bots](https://top.gg/api/widget/744386070552117278.svg)](https://top.gg/bot/744386070552117278)
 
 Soy miembro activo de la comunidad [MyBOT Team](https://discord.gg/g6ssSmK) en donde apoyo a nuevos desarrolladores de bots en Discord. 🎈
 
@@ -14,3 +12,7 @@ Soy miembro activo de la comunidad [MyBOT Team](https://discord.gg/g6ssSmK) en d
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="35" src="https://discord.js.org/static/logo-square.png"></code>
+
+## Mis proyectos:
+#### Piña Bot (Discord Bot):
+[![Discord Bots](https://top.gg/api/widget/744386070552117278.svg)](https://top.gg/bot/744386070552117278)

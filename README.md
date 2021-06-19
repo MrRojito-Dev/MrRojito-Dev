@@ -6,7 +6,7 @@
 ## Soy un programador que hace bots en Discord.
 Actualmente tengo una bot de Discord verificada llamada [Piña Bot](https://top.gg/bot/744386070552117278).
 
-Soy miembro activo de la comunidad [MyBOT Team](https://discord.gg/g6ssSmK) en donde apoyo a nuevos desarrolladores de bots en Discord. 🎈
+Soy gestpr en la comunidad [MyBOT Team](https://discord.gg/g6ssSmK) en donde apoyo a nuevos desarrolladores de bots en Discord. 🎈
 
 ## Tecnologías que uso:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>

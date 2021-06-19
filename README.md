@@ -22,5 +22,5 @@ Soy gestor en la comunidad [MyBOT Team](https://discord.gg/g6ssSmK) en donde apo
 <code><img height="35" src="https://jesuswisord.github.io/cd7bb6bec60f6799aa174b4e07b92ea4.png"></code>
 
 ## Mis proyectos:
-* Piña Bot (Discord Bot):
+* Piña Bot (Discord Bot): <br>
 [![Discord Bots](https://top.gg/api/widget/744386070552117278.svg)](https://top.gg/bot/744386070552117278)

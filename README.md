@@ -8,7 +8,7 @@ Actualmente tengo una bot de Discord verificada llamada [Piña Bot](https://top.
 
 Soy miembro activo de la comunidad [MyBOT Team](https://discord.gg/g6ssSmK) en donde apoyo a nuevos desarrolladores de bots en Discord. 🎈
 
-## Tecnologías que domino:
+## Tecnologías que uso:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="35" src="https://blog.almin.dev/static/media/logo.1787600a.png"></code>

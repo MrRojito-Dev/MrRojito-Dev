@@ -14,6 +14,7 @@ Soy gestpr en la comunidad [MyBOT Team](https://discord.gg/g6ssSmK) en donde apo
 <code><img height="35" src="https://blog.almin.dev/static/media/logo.1787600a.png"></code>
 <code><img height="35" src="https://img.icons8.com/color/480/mongodb.png"></code>
 <code><img height="35" src="https://cdn.worldvectorlogo.com/logos/npm-2.svg"></code>
+<code><img height="35" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></code>
 
 ## Mis proyectos:
 #### Piña Bot (Discord Bot):

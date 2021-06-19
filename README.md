@@ -11,7 +11,7 @@ Soy miembro activo de la comunidad [MyBOT Team](https://discord.gg/g6ssSmK) en d
 ## Lenguajes y librerías que domino:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="35" src="https://discord.js.org/static/logo-square.png"></code>
+<code><img height="35" src="https://blog.almin.dev/static/media/logo.1787600a.png"></code>
 
 ## Mis proyectos:
 #### Piña Bot (Discord Bot):

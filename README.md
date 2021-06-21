@@ -8,11 +8,10 @@ Actualmente tengo una bot de Discord verificada llamada [Piña Bot](https://top.
 
 Soy gestor en la comunidad [MyBOT Team](https://discord.gg/g6ssSmK), la primera comunidad enfocada a dar soporte a nuevos desarrolladores de bots en Discord completamente en español. 🎈
 
-## GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=MrRojito-Dev&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRojito-Dev&theme=radical&layout=compact">
-
-
 ## Mis proyectos:
 * Piña Bot (Discord Bot): <br>
 [![Discord Bots](https://top.gg/api/widget/744386070552117278.svg)](https://top.gg/bot/744386070552117278)
+
+## GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=MrRojito-Dev&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRojito-Dev&theme=radical&layout=compact">

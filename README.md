@@ -12,8 +12,10 @@
 * Piña Bot (Discord Bot): <br>
 [![Discord Bots](https://top.gg/api/widget/744386070552117278.svg)](https://top.gg/bot/744386070552117278)
 
-* Mi sitio web: <br>
-[![Rojito Website](https://i.imgur.com/1X3QBUt.png)](https://rojito.ml)
+* Piña Bot Webpage (Dashboard): <br>
+[![Rojito Website](https://i.imgur.com/1thB16e.png)](https://pinabotweb.glitch.me)
+
+###### [Mi laboratorio de Discord](https://discord.gg/3CjGZDGD7c)
 
 ## GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=MrRojito-Dev&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
